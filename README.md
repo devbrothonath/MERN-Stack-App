@@ -18,5 +18,4 @@ The app runs on MERN stack :
 3. The data send by server is then fetched by clientside which is made in React.js. Here fetch method is used to catch the data from the server-side.
 4. The clientside is made in React so we can use React-Table library which is a popular library for creating tables in React app.
 
-## Live Demo
-* Deployed this application on netlify. You can check it out here : [React-Table MERN App](https://mern-stack-app1.netlify.app)
+
